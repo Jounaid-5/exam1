@@ -9,14 +9,14 @@
 ## if you have an NFA with multiple toState separate them 
 ##with commas like for the accepting.
 starting-p0
-accepting-p4
+accepting-p3
 p0-0-p5
 p0-1-p1
 p1-0-p2
 p1-1-p5
 p2-0-p5
 p2-1-p3
-p3-0-p5
+p3-0-p2
 p3-1-p4	
 p4-0-p5
 p4-1-p5
